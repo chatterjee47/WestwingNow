@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41379" started-at="2021-05-27T10:31:46Z" finished-at="2021-05-27T10:32:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41379" started-at="2021-05-27T10:31:46Z" finished-at="2021-05-27T10:32:27Z">
+      <class name="TestCaseExecution.WestwingnowTest">
+        <test-method status="PASS" signature="HomePageNavigation()[pri:0, instance:TestCaseExecution.WestwingnowTest@7ac7a4e4]" name="HomePageNavigation" is-config="true" duration-ms="10718" started-at="2021-05-27T16:01:46Z" finished-at="2021-05-27T16:01:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageNavigation -->
+        <test-method status="PASS" signature="LoginPageOne(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCaseExecution.WestwingnowTest@7ac7a4e4]" name="LoginPageOne" duration-ms="29328" started-at="2021-05-27T16:01:57Z" data-provider="excelDP" finished-at="2021-05-27T16:02:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chatterjeeamit41@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Testing135$]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Möbel]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Passed Successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageOne -->
+        <test-method status="PASS" signature="getResult()[pri:0, instance:TestCaseExecution.WestwingnowTest@7ac7a4e4]" name="getResult" is-config="true" duration-ms="708" started-at="2021-05-27T16:02:26Z" finished-at="2021-05-27T16:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- TestCaseExecution.WestwingnowTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
